@@ -1,2 +1,6 @@
 # Data-Management-Portfolio
 This is my data management portfolio. Yeah...
+
+This so far contains:
+- Spreadsheet Cleaning
+- nothing else right now...

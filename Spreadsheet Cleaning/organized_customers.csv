@@ -1,0 +1,31 @@
+customer_id,first_name,last_name,email,phone,city,state,signup_date,purchase_total,email_status,phone_status
+1026,Harper,Hernandez,harper.hernandez@example.com,(602) 555-0124,Phoenix,AZ,2025-07-05,120.0,OK,Present
+1027,Jack,King,jack.king@example.com,(602) 555-0125,Tucson,AZ,2025-07-10,300.0,OK,Present
+1006,Jessica,Garcia,jessica.garcia@example.com,(213) 555-0106,Los Angeles,CA,2025-03-01,150.75,OK,Present
+1008,Amanda,Martinez,amanda.martinez@example.com,(213) 555-0108,Los Angeles,CA,2025-03-12,99.99,OK,Present
+1007,Robert,Miller,robert.miller@example,(213) 555-0107,San Diego,CA,2025-03-05,200.0,OK,Present
+1025,Lucas,Young,lucas.young@example.com,(303) 555-0123,Boulder,CO,2025-07-01,175.0,OK,Present
+1024,Evelyn,Allen,evelyn.allen@example.com,(303) 555-0122,Denver,CO,2025-06-20,55.0,OK,Present
+1004,Emily,Davis,,(305) 555-0104,Miami,FL,2025-02-10,75.25,Missing,Present
+1005,David,Wilson,david.wilson@example.com,(305) 555-0105,Orlando,FL,2025-02-14,310.0,OK,Present
+1016,Isabella,Martin,isabella.martin@example.com,(404) 555-0114,Atlanta,GA,2025-05-01,275.0,OK,Present
+1017,William,Thompson,william.thompson@example.com,(404) 555-0115,Atlanta,GA,2025-05-10,110.0,OK,Present
+1003,Michael,Brown,michael.brown@example.com,5550103,Chicago,IL,2025-02-03,120.0,OK,Present
+1015,James,Harris,james.harris@example.com,(312) 555-0113,Chicago,IL,2025-04-20,95.5,OK,Present
+1014,Sophia,White,sophia.white@example.com,(312) 555-0112,Chicago,IL,2025-04-15,130.0,OK,Present
+1019,Alexander,Clark,alexander.clark@example.com,(617) 555-0117,Boston,MA,2025-05-20,400.0,OK,Present
+1018,Mia,Robinson,mia.robinson@example.com,(617) 555-0116,Boston,MA,2025-05-15,85.0,OK,Present
+1022,Amelia,Walker,amelia.walker@example.com,(702) 555-0120,Las Vegas,NV,2025-06-10,90.0,OK,Present
+1023,Henry,Hall,henry.hall@example.com,(702) 555-0121,Reno,NV,2025-06-15,210.0,OK,Present
+1013,Olivia,Jackson,olivia.jackson@example.com,(212) 555-0101,New York,NY,2025-01-15,249.99,OK,Present
+1002,Sarah,Johnson,sarah.j@example.com,(212) 555-0102,New York,NY,2025-01-20,89.5,OK,Present
+1001,John,Smith,john.smith@example.com,(212) 555-0101,New York,NY,2025-01-15,249.99,OK,Present
+1012,Matthew,Moore,matthew.moore@example.com,(503) 555-0111,Portland,OR,2025-04-08,60.0,OK,Present
+1011,Daniel,Taylor,daniel.taylor@example.com,(206) 555-0110,Portland,OR,2025-04-02,225.0,OK,Present
+1021,Benjamin,Lee,benjamin.lee@example.com,(469) 555-0119,Austin,TX,2025-06-05,145.0,OK,Present
+1020,Charlotte,Lewis,charlotte.lewis@example.com,(214) 555-0118,Dallas,TX,2025-06-01,65.0,OK,Present
+1030,Noah,Scott,noah.scott@example.com,(801) 555-0128,Salt Lake City,UT,2025-07-25,160.0,OK,Present
+1009,Christopher,Anderson,chris.anderson@example.com,,Seattle,WA,2025-03-18,45.0,OK,Missing
+1010,Ashley,Thomas,ashley.thomas@example.com,(206) 555-0109,Seattle,WA,2025-03-22,180.5,OK,Present
+1029,Grace,Lopez,grace.lopez@example.com,(414) 555-0127,Madison,WI,2025-07-20,95.0,OK,Present
+1028,Ella,Wright,ella.wright@example.com,(414) 555-0126,Milwaukee,WI,2025-07-15,80.0,OK,Present

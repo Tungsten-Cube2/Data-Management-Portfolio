@@ -1,0 +1,31 @@
+customer_id,first_name,last_name,email,phone,city,state,signup_date,purchase_total
+1001, john ,SMITH, JOHN.SMITH@example.com, (212) 555-0101,New York,NY,2025-01-15,249.99
+1002,Sarah,johnson,sarah.j@example.com,212-555-0102,NEW YORK,ny,01/20/2025,89.50
+1003,Michael,Brown,michael.brown@example.com,5550103,Chicago,Illinois,2025/02/03,120.00
+1004,Emily,Davis,,(305) 555-0104,Miami,FL,Feb 10 2025,75.25
+1005,David,Wilson,david.wilson@example.com,3055550105,Orlando,Florida,2025-02-14,310.00
+1006,Jessica,Garcia,jessica.garcia@example.com, (213) 555-0106 ,Los Angeles,ca,03/01/2025,150.75
+1007,Robert,Miller,robert.miller@example,2135550107,San Diego,California,2025-03-05,200.00
+1008,Amanda,Martinez,amanda.martinez@example.com,213-555-0108,Los Angeles,CA,2025-03-12,99.99
+1009,Christopher,Anderson,chris.anderson@example.com,,Seattle,WA,March 18 2025,45.00
+1010, Ashley ,Thomas,ashley.thomas@example.com,(206) 555-0109,Seattle,Washington,2025-03-22,180.50
+1011,Daniel,Taylor,daniel.taylor@example.com,2065550110,Portland,Oregon,04/02/2025,225.00
+1012,Matthew,Moore,matthew.moore@example.com,503-555-0111,Portland,OR,2025-04-08,60.00
+1013,Olivia,Jackson,olivia.jackson@example.com, (212) 555-0101 ,New York,NY,2025-01-15,249.99
+1014,Sophia,White,sophia.white@example.com,3125550112,Chicago,IL,2025-04-15,130.00
+1015,James,Harris,james.harris@example.com,312-555-0113,Chicago,Illinois,2025-04-20,95.50
+1016,Isabella,Martin,isabella.martin@example.com,404-555-0114,Atlanta,Georgia,2025-05-01,275.00
+1017,William,Thompson,william.thompson@example.com,4045550115,Atlanta,GA,05/10/2025,110.00
+1018,Mia,Robinson,mia.robinson@example.com,617-555-0116,Boston,MA,2025-05-15,85.00
+1019,Alexander,Clark,alexander.clark@example.com,6175550117,Boston,Massachusetts,2025-05-20,400.00
+1020,Charlotte,Lewis,charlotte.lewis@example.com,214-555-0118,Dallas,TX,2025-06-01,65.00
+1021,Benjamin,Lee,benjamin.lee@example.com,4695550119,Austin,Texas,2025-06-05,145.00
+1022,Amelia,Walker,amelia.walker@example.com,702-555-0120,Las Vegas,NV,2025-06-10,90.00
+1023,Henry,Hall,henry.hall@example.com,7025550121,Reno,Nevada,2025-06-15,210.00
+1024,Evelyn,Allen,evelyn.allen@example.com,303-555-0122,Denver,CO,2025-06-20,55.00
+1025,Lucas,Young,lucas.young@example.com,3035550123,Boulder,Colorado,2025-07-01,175.00
+1026,Harper,Hernandez,harper.hernandez@example.com,602-555-0124,Phoenix,AZ,2025-07-05,120.00
+1027,Jack,King,jack.king@example.com,6025550125,Tucson,Arizona,2025-07-10,300.00
+1028, Ella ,Wright,ella.wright@example.com,414-555-0126,Milwaukee,WI,2025-07-15,80.00
+1029,Grace,Lopez,grace.lopez@example.com,4145550127,Madison,Wisconsin,2025-07-20,95.00
+1030,Noah,Scott,noah.scott@example.com,801-555-0128,Salt Lake City,UT,2025-07-25,160.00

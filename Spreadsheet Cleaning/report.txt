@@ -1,0 +1,5 @@
+REPORT:
+----------------------------------
+Customers processed: 30
+Emails missing: 1
+Phone Numbers missing: 1
