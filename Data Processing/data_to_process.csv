@@ -1,0 +1,21 @@
+order_id,customer_name,email,product,category,quantity,unit_price,order_date,status
+1001,John Smith,john@gmail.com,Windows Laptop,Electronics,1,899.99,2026-10-01,Completed
+1002,Sarah Jones,sarah@yahoo.com,Mouse,Electronics,0,19.99,10/02/2026,Completed
+1003,Michael Brown,michael@gmail.com,Keyboard,electronics,1,49.99,2026-10-03,Pending
+1004,Emily Davis,,Monitor,Electronics,2,199.99,2026-10-04,Completed
+1005,James Wilson,james@gmail.com,Desk,Furniture,1,249.99,2026-10-05,Cancelled
+1006,Olivia Taylor,olivia@gmail.com,Chair,furniture,3,89.99,10-06-2026,Completed
+1007,William Anderson,william@gmail.com,Headphones,Electronics,2,59.99,2026-10-07,Completed
+1008,Sophia Thomas,sophia@gmail.com,Webcam,Electronics,1,79.99,2026-10-08,Pending
+1009,Daniel Jackson,daniel@gmail.com,Notebook,Office Supplies,10,3.99,2026-10-09,Completed
+1010,Isabella White,isabella@gmail.com,Pen,office supplies,20,1.50,2026-10-10,Completed
+1011,John Smith,john@gmail.com,Apple Laptop,Electronics,1,899.99,2026-10-01,Completed
+1012,Ethan Harris,ethan@gmail.com,Tablet,Electronics,,299.99,2026-10-12,Completed
+1013,Mia Martin,mia@gmail.com,Bookshelf,Furniture,1,-129.99,2026-10-13,Completed
+1014,Alexander Thompson,alexander@gmail.com,Printer,Electronics,2,149.99,2026-10-14,Shipped
+1015,Charlotte Garcia,charlotte@gmail.com,Desk,Furniture,1,249.99,2026-10-15,completed
+1016,Lucas Martinez,lucas@gmail.com,USB Cable,Electronics,5,$8.99,2026-10-16,Completed
+1017,Amelia Robinson,amelia@gmail.com,Notebook,Office Supplies,15,3.99,2026-10-17,Pending
+1018,Benjamin Clark,benjamin@gmail,Mouse,Electronics,2,19.99,2026-10-18,Completed
+1019,Harper Lewis,harper@gmail.com,Monitor,Electronics,1,199.99,2026-10-19,Unknown
+1020,Henry Lee,henry@gmail.com,Chair,Furniture,2,89.99,2026-10-20,Completed

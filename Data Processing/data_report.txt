@@ -1,0 +1,38 @@
+Datasheet Report
+----------------------------------
+Issues Found
+- Duplicate Records: 1
+- Missing Values: 2
+- Invalid Emails: 2
+- Invalid Prices: 2
+- Unknown Statuses: 1
+
+Structure: Before | After
+Total Records: 21 | 20
+Duplicate Records: 1 | 0
+Invalid Prices: 2 | 0
+Invalid Quantities: Missing: 1 | Zero: 1
+Invalid Email: Missing: 1 | Check email: 1
+
+Total Revenue: $2808.32
+Most Valuable Product (MVP): Windows Laptop at $899.99
+
+Product Prices: 
+Windows Laptop at $899.99
+Keyboard at $49.99
+Monitor at $100.0
+Desk at $249.99
+Chair at $30.0
+Headphones at $30.0
+Webcam at $79.99
+Notebook at $0.4
+Pen at $0.07
+Apple Laptop at $899.99
+Bookshelf at $129.99
+Printer at $75.0
+Desk at $249.99
+Usb Cable at $1.8
+Notebook at $0.27
+Mouse at $9.99
+Monitor at $199.99
+Chair at $44.99

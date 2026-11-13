@@ -1,0 +1,20 @@
+order_id,customer_name,email,product,category,quantity,unit_price,order_date,status,email_status,quantity_status
+1001,John Smith,john@gmail.com,Windows Laptop,Electronics,1.0,899.99,2026-10-01,Completed,OK,OK
+1002,Sarah Jones,sarah@yahoo.com,Mouse,Electronics,0.0,19.99,2026-10-02,Completed,OK,Zero
+1003,Michael Brown,michael@gmail.com,Keyboard,Electronics,1.0,49.99,2026-10-03,Pending,OK,OK
+1004,Emily Davis,,Monitor,Electronics,2.0,199.99,2026-10-04,Completed,Missing,OK
+1005,James Wilson,james@gmail.com,Desk,Furniture,1.0,249.99,2026-10-05,Cancelled,OK,OK
+1006,Olivia Taylor,olivia@gmail.com,Chair,Furniture,3.0,89.99,2026-10-06,Completed,OK,OK
+1007,William Anderson,william@gmail.com,Headphones,Electronics,2.0,59.99,2026-10-07,Completed,OK,OK
+1008,Sophia Thomas,sophia@gmail.com,Webcam,Electronics,1.0,79.99,2026-10-08,Pending,OK,OK
+1009,Daniel Jackson,daniel@gmail.com,Notebook,Office Supplies,10.0,3.99,2026-10-09,Completed,OK,OK
+1010,Isabella White,isabella@gmail.com,Pen,Office Supplies,20.0,1.50,2026-10-10,Completed,OK,OK
+1012,Ethan Harris,ethan@gmail.com,Tablet,Electronics,,299.99,2026-10-12,Completed,OK,Missing
+1013,Mia Martin,mia@gmail.com,Bookshelf,Furniture,1.0,129.99,2026-10-13,Completed,OK,OK
+1014,Alexander Thompson,alexander@gmail.com,Printer,Electronics,2.0,149.99,2026-10-14,Shipped,OK,OK
+1015,Charlotte Garcia,charlotte@gmail.com,Desk,Furniture,1.0,249.99,2026-10-15,Completed,OK,OK
+1016,Lucas Martinez,lucas@gmail.com,Usb Cable,Electronics,5.0,8.99,2026-10-16,Completed,OK,OK
+1017,Amelia Robinson,amelia@gmail.com,Notebook,Office Supplies,15.0,3.99,2026-10-17,Pending,OK,OK
+1018,Benjamin Clark,benjamin@gmail,Mouse,Electronics,2.0,19.99,2026-10-18,Completed,Check email,OK
+1019,Harper Lewis,harper@gmail.com,Monitor,Electronics,1.0,199.99,2026-10-19,Unknown,OK,OK
+1020,Henry Lee,henry@gmail.com,Chair,Furniture,2.0,89.99,2026-10-20,Completed,OK,OK
