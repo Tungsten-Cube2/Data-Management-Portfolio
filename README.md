@@ -61,5 +61,7 @@ Most small-to-medium cleanups start at **$25–$40**. Larger or multi-file proje
 
 ## Contact
 
-Want help with messy spreadsheets or file organization?  
-Send me a description of the task or a sample file and I’ll let you know what I can do.
+Send a sample file (remove sensitive data) or a short description of the task.
+I'll reply within 24 hours with what I'll fix and the exact price.
+
+📧 [Email Me](mailto:tungstencube02@gmail.com)
