@@ -49,6 +49,28 @@ A folder full of poorly named and disorganized files.
 
 ---
 
+### 3. Data Processing – [Short title]
+
+**Problem:**  
+Another messy customer list, but a report is required to summarize changes.
+
+**What I did:**
+
+- Converted unprocessed data into a clean, new csv file.
+- Created a report that tracks:
+  - Changes made (before and after)
+  - Most valuable product
+  - Price of products
+
+**Files:**
+
+- [`data_to_process.csv`](Data%20Processing/data_to_process.csv) – Original data
+- [`processed_data.csv`](Data%20Processing/processed_data.csv) – Processed result
+- [`data_processing.py`](Data%20Processing/data_processing.py) – Script used
+- [`data_report.txt`](Data%20Processing/data_report.txt) – Report made
+
+---
+
 ## How I Work
 
 1. You send a sample file or describe the task (you can remove sensitive data).
