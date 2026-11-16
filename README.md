@@ -24,14 +24,6 @@ A messy customer list with duplicates, inconsistent name/email formatting, and m
 - Cleaned and organized the columns
 - Produced a clean, ready-to-use CSV
 
-**Before**
-
-![Before...](Spreadsheet Cleaning\screenshots\<Screenshot 2026-11-09 212425.png>)
-
-**After**
-
-![After...](Spreadsheet Cleaning\screenshots\<Screenshot 2026-11-09 212601.png>)
-
 **Files:**
 - [`messy_customers.csv`](Spreadsheet%20Cleaning/messy_customers.csv) – Original messy data
 - [`organized_customers.csv`](Spreadsheet%20Cleaning/organized_customers.csv) – Cleaned result
@@ -82,14 +74,6 @@ Another messy customer list, but a report is required to summarize changes.
   - Changes made (before and after)
   - Most valuable product
   - Price of products
-
-**Corrected Sheet**
-
-![Corrected...](Data Processing/screenshots/<Screenshot 2026-11-16 115122.png>)
-
-**Report**
-
-![Report](Data Processing\screenshots\<Screenshot 2026-11-16 115400.png>)
 
 **Files:**
 
