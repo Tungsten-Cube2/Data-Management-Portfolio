@@ -85,11 +85,11 @@ Another messy customer list, but a report is required to summarize changes.
 
 **Cleaned Datasheet**
 
-
+![alt text](<Data Processing/screenshots/Screenshot 2026-11-16 115122.png>)
 
 **Sheet Report**
 
-
+![alt text](<Data Processing/screenshots/Screenshot 2026-11-16 115400.png>)
 
 **Files:**
 
